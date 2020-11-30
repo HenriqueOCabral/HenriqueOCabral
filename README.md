@@ -19,7 +19,7 @@
 
 - I’m currently learning javascript, React, Node and PHP.
 
-- I’m looking for help with advanced algorithms and data structures.
+- I’m looking for help with algorithms and data structures.
 
 - Ask me about anything.
 </br>
