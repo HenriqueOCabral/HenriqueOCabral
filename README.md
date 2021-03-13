@@ -20,7 +20,6 @@
 
 ### Want to know something about me? 
 
-<br/>
 
 - Linux, Linux, Linux, all kinds of Linux.
 
