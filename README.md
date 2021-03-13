@@ -1,4 +1,4 @@
-### Hello, There!<img align="left" alt="Ben" width="52px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
+### Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
 ### You call me Henrique Cabral.
 
 
@@ -7,7 +7,7 @@
 ### Trainee Vulnerability Analyst 
 
 
-### NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="52px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
+### NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
 
 
 ### Want to know something about me? 
@@ -56,5 +56,5 @@
 
 </br>
 
-### May the force be with You. <img align="left" alt="Yoda" width="52px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
+### May the force be with You. <img align="left" alt="Yoda" width="36px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
 
