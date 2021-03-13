@@ -1,4 +1,4 @@
-### Hello, There!<img align="left" alt="Ben" width="26px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
+### Hello, There!<img align="left" alt="Ben" width="52px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
 ### You call me Henrique Cabral.
 
 
@@ -7,7 +7,7 @@
 ### Trainee Vulnerability Analyst 
 
 
-### NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="26px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
+### NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="52px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
 
 
 ### Want to know something about me? 
@@ -35,11 +35,9 @@
 
 ### How to reach me:
 
-<a href="https://www.linkedin.com/in/henrique-cabral-a6b7ba176/"><img alt="Linkedin" width="32px" align="left" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/linkedin-512.png"/></a>
-<a href="mailto:hocabral37@gmail.com"><img alt="Mail" align="left" width="32px" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/mail-512.png"/></a>
-<a href="https://www.codewars.com/users/Henrique-NiroL"><img alt="CodeWars" width="32px" align="left" src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-512.png"/></a>
-<a href="https://www.facebook.com/henrique.cabral.140"><img alt="Facebook" width="32px" align="left" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/facebook-512.png"/></a>
-<a href="https://www.instagram.com/henriquecabral1/"><img alt="Instagram" width="32px" align="left" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/instagram-512.png"/></a>
+<a href="https://www.linkedin.com/in/henrique-cabral-a6b7ba176/"><img alt="Linkedin" width="32px" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/></a>
+<a href="mailto:hocabral37@gmail.com"><img alt="Mail" align="left" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/></a>
+<a href="https://www.instagram.com/henriquecabral1/"><img alt="Instagram" width="32px" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"/></a>
 
 </br>
 
@@ -58,5 +56,5 @@
 
 </br>
 
-### May the force be with You. <img align="left" alt="Yoda" width="26px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
+### May the force be with You. <img align="left" alt="Yoda" width="52px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
 
