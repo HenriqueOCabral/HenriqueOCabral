@@ -1,16 +1,26 @@
-### Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
-### You call me Henrique Cabral.
+# Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
+<br/>
+<br/>
 
+## You call me Henrique Cabral.
 
+<br/>
+<br/>
 
-### Freelancer Web Developer
-### Trainee Vulnerability Analyst 
+## Freelancer Web Developer
+## Trainee Vulnerability Analyst 
 
+<br/>
+<br/>
 
-### NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
+# NEVER TELL ME THE ODDS!<img align="left" alt="Han" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-45-512.png" />
 
+<br/>
+<br/>
 
 ### Want to know something about me? 
+
+<br/>
 
 - Linux, Linux, Linux, all kinds of Linux.
 
@@ -32,6 +42,9 @@
 
 <img src="https://www.codewars.com/users/Henrique-NiroL/badges/large" />
 
+<br/>
+<br/>
+
 
 ### How to reach me:
 
@@ -40,6 +53,7 @@
 <a href="https://www.instagram.com/henriquecabral1/"><img alt="Instagram" width="32px" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"/></a>
 
 </br>
+<br/>
 
 ### Languages and Tools:
 
@@ -55,6 +69,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </br>
+<br/>
+<br/>
 
-### May the force be with You. <img align="left" alt="Yoda" width="36px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
+
+# May the force be with You. <img align="left" alt="Yoda" width="36px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png" />
 
