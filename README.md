@@ -5,7 +5,7 @@
 <br/>
 
 ## Freelancer Web Developer
-## Trainee Vulnerability Analyst 
+## Vulnerability Analyst 
 
 <br/>
 <br/>
