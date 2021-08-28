@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-## Freelance Web Developer
+## Frontend Developer
 ## Vulnerability Analyst 
 
 <br/>
