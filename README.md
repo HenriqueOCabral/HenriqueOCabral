@@ -22,13 +22,13 @@
 
 - Work hard, study hard.
 
-- In love with Web Development and Infosec.
+- In love with Frontend Development and Infosec.
 
-- I’m currently working on develop exquisite apps, API's.
+- I’m currently working on develop exquisite apps and API's.
 
 - I'm enjoying bug bounties programs.
 
-- I’m always studying Javascript, React, Next and Node.
+- I’m always studying Javascript, React, Next, and Node.
 
 - I’m looking for help with algorithms and data structures.
 
@@ -51,7 +51,7 @@
 </br>
 <br/>
 
-### Languages and Tools:
+### Most Used Languages and Tools:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
