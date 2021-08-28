@@ -28,7 +28,7 @@
 
 - I'm enjoying bug bounties programs.
 
-- I’m always studying javascript, React, Next and Node.
+- I’m always studying Javascript, React, Next and Node.
 
 - I’m looking for help with algorithms and data structures.
 
