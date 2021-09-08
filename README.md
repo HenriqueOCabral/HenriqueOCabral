@@ -46,7 +46,7 @@
 
 <div>
   <a href="https://github.com/HenriqueOCabral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOCabral&layout=compact&langs_count=8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOCabral&layout=compact&langs_count=8&theme=dracula">
 </div>
 
 
