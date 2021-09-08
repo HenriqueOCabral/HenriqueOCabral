@@ -1,11 +1,14 @@
 # Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
 ## Call me by Henrique Cabral.
-
+<div>
+  <a href="https://github.com/HenriqueOCabral">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOCabral&count_private=true&hide=prs,contribs&show_icons=true&theme=dracula&include_all_commits=true">
+</div>
 <br/>
 <br/>
 
 ## Frontend Developer
-## Vulnerability Analyst 
+## Red Team 
 
 <br/>
 <br/>
@@ -41,6 +44,11 @@
 <br/>
 <br/>
 
+<div>
+  <a href="https://github.com/HenriqueOCabral">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOCabral&layout=compact&langs_count=8">
+</div>
+
 
 ### How to reach me:
 
@@ -50,18 +58,6 @@
 
 </br>
 <br/>
-
-### Most Used Techs:
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 </br>
 <br/>
 <br/>
