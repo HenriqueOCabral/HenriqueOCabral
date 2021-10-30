@@ -34,7 +34,7 @@
   
 - You can solve almost every life probs with AWS Lambdas I can prove it. In Lambdas we trust! lol
 
-- I’m always studying Javascript, React, Next, and Node.
+- I’m always studying TypeScript, Javascript, React, Next, and Node.
 
 - I’m looking for help with algorithms and data structures.
 
