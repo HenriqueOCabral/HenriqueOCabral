@@ -2,7 +2,7 @@
 ## Call me by Henrique Cabral.
 <div>
   <a href="https://github.com/HenriqueOCabral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOCabral&count_private=true&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOCabral&count_private=true&hide=contribs,prs&show_icons=true&theme=dracula&include_all_commits=true">
 </div>
 <br/>
 <br/>
