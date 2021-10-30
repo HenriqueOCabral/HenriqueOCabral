@@ -7,7 +7,8 @@
 <br/>
 <br/>
 
-## Frontend Developer
+## Software Engineer
+## Front-End Developer
 ## Red Team 
 
 <br/>
@@ -25,11 +26,13 @@
 
 - Work hard, study hard.
 
-- In love with Frontend Development and Infosec.
+- In love with Frontend Development, Blockchain, AWS, and Infosec.
 
 - I’m currently working on develop exquisite apps and API's.
 
-- I'm enjoying bug bounties programs.
+- I'm enjoying bug bounties programs, smart contracts.
+  
+- You can solve almost every life probs with AWS Lambdas I can prove it. In Lambdas we trust! lol
 
 - I’m always studying Javascript, React, Next, and Node.
 
