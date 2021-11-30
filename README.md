@@ -6,7 +6,7 @@
 </div>
 <br/>
 <br/>
-   <script src="https://tryhackme.com/badge/767034"></script>
+   <img src="https://tryhackme.com/badge/767034" />
 <br/>
 <br/>
 
