@@ -6,7 +6,7 @@
 </div>
 <br/>
 <br/>
-   <img src="https://tryhackme.com/badge/767034" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Cabral.Feb.png" alt="TryHackMe">
 <br/>
 <br/>
 
