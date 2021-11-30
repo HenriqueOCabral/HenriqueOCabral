@@ -6,8 +6,10 @@
 </div>
 <br/>
 <br/>
+   <script src="https://tryhackme.com/badge/767034"></script>
+<br/>
+<br/>
 
-## Software Engineer
 ## Front-End Developer
 ## Red Team 
 
