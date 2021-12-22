@@ -10,8 +10,7 @@
 <br/>
 <br/>
 
-## Front-End Developer
-## Red Team 
+## Cyber Security Researcher
 
 <br/>
 <br/>
@@ -28,17 +27,16 @@
 
 - Work hard, study hard.
 
-- In love with Frontend Development, Blockchain, AWS, and Infosec.
+- In love with Malware Analysis, App Security, and Pentesting.
 
-- I’m currently working on develop exquisite apps and API's.
+- I’m currently working on develop exquisite hardware hacking.
 
-- I'm enjoying bug bounties programs, smart contracts.
+- I'm enjoying bug bounties programs.
   
 - You can solve almost every life probs with AWS Lambdas I can prove it. In Lambdas we trust! lol
 
-- I’m always studying TypeScript, Javascript, React, Next, and Node.
+- I’m always studying TypeScript, Javascript, React, Next, and Node, Bash.
 
-- I’m looking for help with algorithms and data structures.
 
 - Ask me about anything.
 </br>
