@@ -1,9 +1,6 @@
 # Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
 ## Call me by Henrique Cabral.
-<div>
-  <a href="https://github.com/HenriqueOCabral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOCabral&count_private=true&hide=prs,contribs&show_icons=true&theme=dracula&include_all_commits=true">
-</div>
+
 <br/>
 <br/>
     <img src="https://tryhackme-badges.s3.amazonaws.com/Cabral.Feb.png" alt="TryHackMe">
@@ -29,20 +26,19 @@
 
 - In love with Malware Analysis, App Security, and Pentesting.
 
-- I’m currently working on develop exquisite hardware hacking.
-
-- I'm enjoying bug bounties programs.
+- Developing Malware vaccines.
   
 - You can solve almost every life probs with AWS Lambdas I can prove it. In Lambdas we trust! lol
 
 - I’m always studying TypeScript, Javascript, React, Next, and Node, Bash.
+  
+- Nznyz Nvmgzorgb.
 
 
 - Ask me about anything.
 </br>
 
-
-<img src="https://www.codewars.com/users/Henrique-NiroL/badges/large" />  
+.-- .... . -./-.-- --- ..-/... . ./.-/--. --- --- -../-- --- ...- . --..--/..-. .. -. -../.-/-... . - - . .-./--- -. . .-.-.-
 
 <br/>
 <br/>
