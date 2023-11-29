@@ -1,12 +1,5 @@
 # Hello, There!<img align="left" alt="Ben" width="36px" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" />
 ## Call me by Henrique Cabral.
-
-<br/>
-<br/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Cabral.Feb.png" alt="TryHackMe">
-<br/>
-<br/>
-
 ## Cyber Security Researcher
 
 <br/>
@@ -54,7 +47,6 @@
 <a href="https://www.linkedin.com/in/henrique-cabral-a6b7ba176/"><img alt="Linkedin" width="32px" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/></a>
 <a href="https://www.freecodecamp.org/henriqueocabral"><img alt="FCC" width="32px" align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/freecodecamp-256.png"/></a>
 <a href="mailto:hocabral37@gmail.com"><img alt="Mail" align="left" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/></a>
-<a href="https://www.instagram.com/henriquecabral1/"><img alt="Instagram" width="32px" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"/></a>
   
 
 </br>
@@ -63,7 +55,7 @@
 <br/>
 <br/>
 
-## Can you catch my flags?
+## Can you catch the flags?
 <br/>
 <br/>
 
